@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "461111292378",
+    "firebase_url": "https://khaaja-fe7de.firebaseio.com",
+    "project_id": "khaaja-fe7de",
+    "storage_bucket": "khaaja-fe7de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461111292378:android:61833b6893b9c217df10e3",
+        "android_client_info": {
+          "package_name": "com.sanim.khaaja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461111292378-poq1saqqq4moje3gljsk38fj0sdo2ulq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanim.khaaja",
+            "certificate_hash": "50d791b17ac0a14aacd38e70e9959f33c066d813"
+          }
+        },
+        {
+          "client_id": "461111292378-6c8e060vffokpng856f4a81ad7hv174m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJwODThJBpbOz_Vy_6h4n7H-um4tlljmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461111292378-6c8e060vffokpng856f4a81ad7hv174m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
